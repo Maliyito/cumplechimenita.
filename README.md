@@ -1,6 +1,5 @@
 # felizc cumple chimenita.
 -Mali
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8" />
@@ -102,9 +101,6 @@
     <p class="phrase">"QUE TE PASA LUPITAA"</p>
   </div>
 </section>
-  </div>
-</section>
-
 <section id="playlist">
   <div class="container">
     <h3 style="text-align:center; font-family:'Dancing Script',cursive; font-size:2em; color:#f8a5c2">Playlist para ti</h3>
