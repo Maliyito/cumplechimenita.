@@ -102,16 +102,6 @@
     <p class="phrase">"QUE TE PASA LUPITAA"</p>
   </div>
 </section>
-
-<section id="galeria">
-  <div class="container">
-    <h3 style="text-align:center; font-family:'Dancing Script',cursive; font-size:2em; color:#f8a5c2">Galería</h3>
-    <div class="stickers">
-      <img src="https://mx.pinterest.com/pin/1196337404438267/" alt=https://mx.pinterest.com/pin/1196337404438267/  
-      <img src="[https://mx.pinterest.com/pin/119556565103763056/)">" alt="[https://mx.pinterest.com/pin/119556565103763056/)">
-      <img src="https://mx.pinterest.com/pin/1114359501530093361/">" alt="https://mx.pinterest.com/pin/1114359501530093361/">
-      <img src="https://mx.pinterest.com/pin/381539399709831795/">" alt="https://mx.pinterest.com/pin/381539399709831795/">
-    </div>
   </div>
 </section>
 
