@@ -1,4 +1,4 @@
-# felizc cumple chimenita.
+# feliz cumple chimenita.
 -Mali
 <html lang="es">
 <head>
@@ -86,6 +86,10 @@
       No sabes cuánto valoro tenerte en mi vida. Eres mi apoyo, mi risa en los días difíciles y la persona con quien puedo ser totalmente yo.<br><br>
       Gracias por estar siempre aunque no pueda verte, por las pláticas diarias que tanto amo, y por hacerme sentir que ninguna distancia me impediría amarte tanto ni hacerme sentir amada.<br><br>
       Te amo muchísimo Chimenita, pero te amo con el alma porque el corazón deja de latir, y el alma nunca muere. Espero que nuestra amistad dure toda la vida.
+      Sin importar lo que pase, espero sepas que siempre siempre voy a estar para ti, eres mi personita especial, mi "pieza perdida del rompecabezas" te amo infinitamente y no tengo palabras para expresarlo. 
+      Esta vez quise hacer algo diferente, probé con una página completa aunque no me salió del todo bien, me gustaría poder darte mil regalos si pudiera pero ahora mismo solo puedo darte mi amor a tra vez de una pantalla. 
+      Ojála por tu mente nunca pase que nadie te ama porque te juró que por ti daría hasta lo imposible.
+      No te conformes menos de lo que vales si? TE AMOOO
     </p>
   </div>
 </section>
