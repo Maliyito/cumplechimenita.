@@ -107,10 +107,10 @@ primer repositorio
   <div class="container">
     <h3 style="text-align:center; font-family:'Dancing Script',cursive; font-size:2em; color:#f8a5c2">Galería</h3>
     <div class="stickers">
-      <img src="https://i.imgur.com/W6gq6hT.gif" alt=https://mx.pinterest.com/pin/1196337404438267/  
-      <img src="https://i.imgur.com/1gh4m0E.gif" alt="[https://mx.pinterest.com/pin/119556565103763056/)">
-      <img src="https://i.imgur.com/Jcq9S7W.gif" alt="https://mx.pinterest.com/pin/1114359501530093361/">
-      <img src="https://i.imgur.com/zJQ6vLC.png" alt="https://mx.pinterest.com/pin/381539399709831795/">
+      <img src="https://mx.pinterest.com/pin/1196337404438267/" alt=https://mx.pinterest.com/pin/1196337404438267/  
+      <img src="[https://mx.pinterest.com/pin/119556565103763056/)">" alt="[https://mx.pinterest.com/pin/119556565103763056/)">
+      <img src="https://mx.pinterest.com/pin/1114359501530093361/">" alt="https://mx.pinterest.com/pin/1114359501530093361/">
+      <img src="https://mx.pinterest.com/pin/381539399709831795/">" alt="https://mx.pinterest.com/pin/381539399709831795/">
     </div>
   </div>
 </section>
@@ -131,9 +131,9 @@ primer repositorio
 
 <section id="sorpresa">
   <div class="container" style="text-align:center;">
-    <button class="btn" onclick="reveal()">Haz clic si quieres saber cuánto te amo ❤️</button>
+    <button class="btn" onclick="reveal()">Haz clic aquí ❤️</button>
     <div id="surprise">
-      <p>Más de lo que las palabras pueden explicar... más de lo que el alma puede sentir. Te amo con todo lo que soy.</p>
+      <p> Gracias por ser parte de mi vida. Felices 15 añitos mi chimenita linda, esperó seguir siendo parte de tu vida muchos años más.</p>
     </div>
   </div>
 </section>
